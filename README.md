@@ -19,56 +19,29 @@
 ### 💻 Frontend
 - React (Vite)
 - HTML5, CSS3
-- JavaScript (ES6+)
-- Ant Design
-- Responsive UI Design
+- JavaScript (ES6+) , TS
 
-### ⚙️ Backend
+### ⚙️ Backend & DB
 - Node.js
 - Express.js
 - MongoDB
-- Appwrite
-- REST APIs
-
-### 💳 Payments & Integrations
-- Razorpay Integration
-- Authentication Systems
-- Admin Dashboards
+- Firestore
+- Postgress
 
 ### 🚀 DevOps & Tools
 - Git & GitHub
-- Vercel Deployment
+- Vercel,Render
 - npm Package Publishing
 - Postman
-
+- Docker
+- 
 ---
 
 ## 📌 Featured Projects
 
-### 💳 Membership Payment & ID Card Generator
-- Razorpay payment integration
-- Unique ID auto-generation
-- PDF generation & download
-- Backend data storage with MongoDB
-
-### 🚨 Women Safety Platform (SURAKSHA)
-- Appwrite authentication
-- Admin dashboard with action tracking
-- Real-time data updates
-- SOS system integration
-
 ### 📦 npm Package
-- Created and published a custom Node.js package
-- Learning open-source distribution & version control
+- nodewise - https://www.npmjs.com/package/nodewise - A production-ready CLI dev tool that intercepts and explains runtime errors in your Node.js applications. It works like nodemon but instead of just restarting on crash, it explains what went wrong in simple, natural language.
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gourab2005&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gourab2005&theme=radical" />
-</p>
 
 ---
 
@@ -76,7 +49,7 @@
 
 - Crack an SDE Internship
 - Master Data Structures & Algorithms
-- Learn Advanced System Design
+- Learn System Design
 - Build 2 Production-Level SaaS Products
 - Contribute to Open Source
 

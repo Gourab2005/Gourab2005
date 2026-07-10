@@ -59,6 +59,7 @@ It’s a AI powered development learning platform implemented using React, Expre
 ## ACHIEVEMENT
 
 - Won Binary 2.0 Hackathon “Requestly” Track by developing “2nd Brain,” an AI-powered knowledge assistant leveraging RAG architecture and vector database retrieval.
+- Top 10 contributor in college level "GDG Winter of code" open source contribution program.
 
 ## LANGUAGE
 

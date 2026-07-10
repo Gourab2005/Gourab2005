@@ -1,71 +1,65 @@
-<h1 align="center">Hi 👋, I'm Gourab Das</h1>
-<h3 align="center">Aspiring Software Development Engineer | MERN Stack Developer | Problem Solver</h3>
+<h1 align="center">GOURAB DAS</h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2600&pause=900&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;React.js+%7C+Node.js+%7C+Express.js;AI%2FLLM+Technologies+%7C+RAG+%7C+LangChain+%7C+LangGraph" alt="Typing animation" />
+  </a>
+</p>
+
+<p align="center">
+  📞 +91 7585814061 &nbsp;|&nbsp; 📍 Berhampore, West Bengal &nbsp;|&nbsp; ✉️ <a href="mailto:gourab574@gmail.com">gourab574@gmail.com</a><br/>
+  🔗 <a href="https://www.linkedin.com/in/gourab2005/">LinkedIn</a> &nbsp;|&nbsp; 💻 <a href="https://github.com/Gourab2005">GitHub</a>
+</p>
 
 ---
 
-## 🚀 About Me
+## EDUCATION
 
-- 🎓 3rd Year Engineering Student
-- 💻 Focused on becoming a **Software Development Engineer (SDE)**
-- 🌱 Currently learning: **System Design, DevOps, and Advanced Backend**
-- 🔥 Strong interest in building **real-world scalable applications**
-- 📦 Published my own npm package
-- ⚡ Love turning ideas into working products
+- **B-TECH, IT** | Netaji Subhash Engineering College, Kolkata &nbsp;&nbsp; **CGPA: 8.16 (Till 5th sem)**
+- **XII (WBCHSE)** | Gorabazar Iswar Chandra Institution, Berhampore &nbsp;&nbsp; **77.2% | 2022**
+- **X (WBBSE)** | Gorabazar Iswar Chandra Institution, Berhampore &nbsp;&nbsp; **84.0% | 2020**
 
----
+## SKILLS
 
-## 🛠️ Tech Stack
+- **Languages:** Java, JavaScript, HTML, CSS, SQL
+- **Frameworks/Libraries:** React.js, Node.js, Express.js, Web Socket
+- **AI/LLM Technologies:** RAG, Vector Databases, LangChain, LangGraph, Agentic AI
+- **Databases:** MongoDB, PostgreSQL
+- **Tools/Platforms:** Git, Github, Docker, Postman
 
-### 💻 Frontend
-- React (Vite)
-- HTML5, CSS3
-- JavaScript (ES6+) , TS
+## EXPERIENCE
 
-### ⚙️ Backend & DB
-- Node.js
-- Express.js
-- MongoDB
-- Firestore
-- Postgress
+### Internship at Aecho.ai | Nov, 2025 - Feb, 2026
+- Completed a 3-month Full Stack Developer internship at Aecho.ai.
+- Developed real-time chat and user activity tracking systems using WebSocket, handled 500+ concurrent user tracking in an event.
+- Built an AI-powered profile editing assistant.
 
-### 🚀 DevOps & Tools
-- Git & GitHub
-- Vercel,Render
-- npm Package Publishing
-- Postman
-- Docker
-- 
----
+### Freelancing
+- Developed a full website with admin dashboard for Bihonginee, a travel agency — **bihonginee.in**
+- Implemented trip management and registration management functionalities.
+- Optimized deployment using free-tier hosting services and implemented basic SEO.
 
-## 📌 Featured Projects
+### Freelancing
+- Developed a full website with admin dashboard for an architect portfolio — **archtalesbyak.in**
+- Implemented contact form submission and custom blog publishing functionality.
+- Leveraged AI tools to accelerate development and deliver the project before deadline.
 
-### 📦 npm Package
-- nodewise - https://www.npmjs.com/package/nodewise - A production-ready CLI dev tool that intercepts and explains runtime errors in your Node.js applications. It works like nodemon but instead of just restarting on crash, it explains what went wrong in simple, natural language.
+## PROJECTS
 
+### Devhoper
+Live here: **https://devhoper.vercel.app/**
 
----
+It’s a AI powered development learning platform implemented using React, Express, FireStore, PostgreSQL, Cloudinary, Redis, Groq ai. Features are listed below:
 
-## 🎯 2026 Goals
+- Implemented OTP-based authentication with email verification.
+- Developed AI-powered question solving, judging, and feedback functionality.
+- Built a browser-based AI teacher system using user-provided Groq API keys without backend processing.
+- Added gamification features including streaks, leaderboards, and badge systems.
 
-- Crack an SDE Internship
-- Master Data Structures & Algorithms
-- Learn System Design
-- Build 2 Production-Level SaaS Products
-- Contribute to Open Source
+## ACHIEVEMENT
 
----
+- Won Binary 2.0 Hackathon “Requestly” Track by developing “2nd Brain,” an AI-powered knowledge assistant leveraging RAG architecture and vector database retrieval.
 
-## 📫 Connect With Me
+## LANGUAGE
 
-- 💼 LinkedIn: https://www.linkedin.com/in/gourab2005/
-- 💻 GitHub: https://github.com/Gourab2005
-
----
-
-## 💡 Motto
-
-> "Consistency + Real Projects + Deep Understanding = SDE Success"
-
----
-
-⭐ If you like my work, consider giving a star to my repositories!
+- Bengali / English / Hindi

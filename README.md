@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📍 Berhampore, West Bengal &nbsp;|&nbsp; ✉️ <a href="mailto:gourab574@gmail.com">gourab574@gmail.com</a><br/>
+  ✉️ <a href="mailto:gourab574@gmail.com">gourab574@gmail.com</a>
   🔗 <a href="https://www.linkedin.com/in/gourab2005/">LinkedIn</a> &nbsp;|&nbsp; 💻 <a href="https://github.com/Gourab2005">GitHub</a>
 </p>
 

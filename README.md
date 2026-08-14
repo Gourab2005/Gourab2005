@@ -15,7 +15,7 @@
 
 ## EDUCATION
 
-- **B-TECH, IT** | Netaji Subhash Engineering College, Kolkata &nbsp;&nbsp; **CGPA: 8.16 (Till 5th sem)**
+- **B-TECH, IT** | Netaji Subhash Engineering College, Kolkata &nbsp;&nbsp; **CGPA: 8.22 (Till 6th sem)**
 - **XII (WBCHSE)** | Gorabazar Iswar Chandra Institution, Berhampore &nbsp;&nbsp; **77.2% | 2022**
 - **X (WBBSE)** | Gorabazar Iswar Chandra Institution, Berhampore &nbsp;&nbsp; **84.0% | 2020**
 
@@ -25,7 +25,9 @@
 - **Frameworks/Libraries:** React.js, Node.js, Express.js, Web Socket
 - **AI/LLM Technologies:** RAG, Vector Databases, LangChain, LangGraph, Agentic AI
 - **Databases:** MongoDB, PostgreSQL
+- **Cache Database**: Redis
 - **Tools/Platforms:** Git, Github, Docker, Postman
+
 
 ## EXPERIENCE
 

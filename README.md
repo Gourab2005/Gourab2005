@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  📞 +91 7585814061 &nbsp;|&nbsp; 📍 Berhampore, West Bengal &nbsp;|&nbsp; ✉️ <a href="mailto:gourab574@gmail.com">gourab574@gmail.com</a><br/>
+  📍 Berhampore, West Bengal &nbsp;|&nbsp; ✉️ <a href="mailto:gourab574@gmail.com">gourab574@gmail.com</a><br/>
   🔗 <a href="https://www.linkedin.com/in/gourab2005/">LinkedIn</a> &nbsp;|&nbsp; 💻 <a href="https://github.com/Gourab2005">GitHub</a>
 </p>
 
@@ -57,6 +57,8 @@ It’s a AI powered development learning platform implemented using React, Expre
 - Developed AI-powered question solving, judging, and feedback functionality.
 - Built a browser-based AI teacher system using user-provided Groq API keys without backend processing.
 - Added gamification features including streaks, leaderboards, and badge systems.
+
+### Check my repos for other projects 
 
 ## ACHIEVEMENT
 

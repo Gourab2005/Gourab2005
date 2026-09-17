@@ -1,7 +1,7 @@
 <h1 align="center">GOURAB DAS</h1>
 
 <p align="center">
-  Berhampore, West Bengal, India &nbsp;|&nbsp; +91 7585814061 &nbsp;|&nbsp; <a href="mailto:gourab574@gmail.com">gourab574@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/gourab2005/">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/Gourab2005">GitHub</a>
+  Berhampore, West Bengal, India &nbsp;|&nbsp; <a href="mailto:gourab574@gmail.com">gourab574@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/gourab2005/">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/Gourab2005">GitHub</a>
 </p>
 
 ---
@@ -44,6 +44,13 @@ Software Developer with hands-on experience engineering backend systems and Gene
 - Configured Edge CDN caching and asset minification, accelerating page load speeds by 35% and raising Google Lighthouse scores to 92+.
 
 ## KEY TECHNICAL PROJECTS
+
+### Devhoper — Interactive Developer Learning & Evaluation Platform ([devhoper.app](https://devhoper.app))
+*React.js, Node.js, PostgreSQL, Redis, Three.js, Groq LLM API, Tailwind CSS*
+
+- Implemented an AI-powered code evaluation system analyzing syntax and execution paths to deliver actionable debugging recommendations and detailed scores.
+- Constructed an interactive AI tutor and multimodal mock interviewer with realistic facial/speech simulation, supporting client-side Groq API execution to eliminate server inference costs.
+- Added a 3D gamified skyline leaderboard using **Three.js**, visually scaling individual building heights automatically as users solve programming challenges.
 
 ### YTCert — AI Video Course Certification Platform ([ytcert.vercel.app](https://ytcert.vercel.app))
 *React.js, Node.js, Express.js, PostgreSQL, MongoDB, Redis, LangChain.js, Groq API, Google OAuth*
